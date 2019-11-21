@@ -7,7 +7,7 @@ import Background from '~/components/Background';
 export default function SignIn() {
   return (
     <Background>
-      <Text>Teste</Text>
+      <Text>SignIn</Text>
     </Background>
   );
 }
